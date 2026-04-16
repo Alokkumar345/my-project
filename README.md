@@ -33,7 +33,7 @@ project/
 │── README.md
 ⚙️ Installation & Setup
 1. Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+[[git clone https://github.com/your-username/your-repo-name.git](https://github.com/Alokkumar345/my-project)](https://github.com/Alokkumar345/my-project
 2. Open the project
 
 Simply open index.html in your browser
